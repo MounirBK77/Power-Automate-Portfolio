@@ -13,12 +13,14 @@ Bienvenue sur mon portfolio de projets réalisés avec **Microsoft Power Automat
 
 Voici les étapes illustrées du flux :
 
-![Flow 1](Flow1.png)  
-![Flow 2](Flow2.png)  
-![Flow 3](Flow3.png)  
-![Flow 4](Flow4.png)  
-![Flow 5](Flow5.png)  
-![Flow 6](Flow6.png)  
-![Flow 7](Flow7.png)  
-![Flow 8](Flow8.png)
+![Flow 1](projet-acompte/Flow1.png)
+![Flow 2](projet-acompte/Flow2.png)
+![Flow 3](projet-acompte/Flow3.png)
+![Flow 4](projet-acompte/Flow4.png)
+![Flow 5](projet-acompte/Flow5.png)
+![Flow 6](projet-acompte/Flow6.png)
+![Flow 7](projet-acompte/Flow7.png)
+![Flow 8](projet-acompte/Flow8.png)
+
+
 

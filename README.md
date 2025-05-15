@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio de projets réalisés avec **Microsoft Power Automat
 
 ---
 
-## 📂 Projets disponibles
+
 
 ## 📁 Projets disponibles
 

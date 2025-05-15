@@ -1,29 +1,28 @@
-📁 Projet 1 – Demande d’Acompte
+# 📁 Projet 1 – Demande d’Acompte
 
-🎯 Objectif  
+## 🎯 Objectif  
 Automatiser le processus de demande d’acompte afin de faciliter la validation par les services comptables et garantir un meilleur suivi.
 
-⚙️ Fonctions couvertes  
+## ⚙️ Fonctions couvertes
 
-📝 Saisie de la demande  
+### 📝 Saisie de la demande  
 - Formulaire Microsoft Forms rempli par l'utilisateur  
 - Enregistrement automatique des données dans une liste SharePoint
 
-🔔 Validation hiérarchique  
+### 🔔 Validation hiérarchique  
 - Demande de validation envoyée automatiquement via Teams ou Outlook  
 - Condition de seuil possible pour acheminement vers un valideur supérieur  
 - Mise à jour de l’état de validation dans la liste SharePoint
 
-📩 Notification automatique  
+### 📩 Notification automatique  
 - Envoi d’un e-mail de confirmation ou refus au demandeur  
 - Archivage de la décision dans SharePoint avec date et horodatage
 
-🧩 Technologies utilisées  
+## 🧩 Technologies utilisées  
 Power Automate  
 Microsoft Forms  
 SharePoint  
-Teams / Outlook (approbations)
-
+Teams / Outlook
 
 
 ## 📸 Captures d’écran du flux

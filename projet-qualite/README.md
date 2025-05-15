@@ -1,7 +1,7 @@
 # 📁 Projet 3 – Gestion des Informations Documentées (Qualité)
 
 ## 🎯 Objectif
-Automatiser la gestion des informations documentées chez Masteris, de leur diffusion à leur validation, avec relances et suivi.
+Automatiser la gestion des informations documentées, de leur diffusion à leur validation, avec relances et suivi.
 
 ---
 
@@ -30,9 +30,10 @@ Automatiser la gestion des informations documentées chez Masteris, de leur diff
 ## 🧩 Technologies utilisées
 
 - Power Automate  
-- SharePoint  
+- SharePoint
+- Teams/Approvals
 - Outlook (envois/relances mail automatiques)  
-
+  
 ---
 
 ## 📸 Captures d’écran du flux

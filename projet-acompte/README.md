@@ -4,24 +4,27 @@
 Automatiser le processus de demande d’acompte afin de faciliter la validation par les services comptables et garantir un meilleur suivi.
 
 ⚙️ Fonctions couvertes  
+
 📝 Saisie de la demande  
-- L’utilisateur remplit un formulaire Forms avec les détails de l’acompte.  
-- Les données sont automatiquement envoyées vers une liste SharePoint dédiée.
+- Formulaire Microsoft Forms rempli par l'utilisateur  
+- Enregistrement automatique des données dans une liste SharePoint
 
 🔔 Validation hiérarchique  
-- Envoi d’une demande de validation via Microsoft Teams (ou Outlook selon le contexte).  
-- Si le montant dépasse un certain seuil, le flux déclenche une validation par un niveau supérieur.  
-- Mise à jour de l’état de validation dans la liste SharePoint.
+- Demande de validation envoyée automatiquement via Teams ou Outlook  
+- Condition de seuil possible pour acheminement vers un valideur supérieur  
+- Mise à jour de l’état de validation dans la liste SharePoint
 
 📩 Notification automatique  
-- Envoi d’un e-mail de confirmation ou de refus au demandeur, avec les commentaires du valideur.  
-- Archivage de la décision et horodatage dans SharePoint.
+- Envoi d’un e-mail de confirmation ou refus au demandeur  
+- Archivage de la décision dans SharePoint avec date et horodatage
 
 🧩 Technologies utilisées  
 Power Automate  
 Microsoft Forms  
 SharePoint  
-Teams / Outlook 
+Teams / Outlook (approbations)
+
+
 
 ## 📸 Captures d’écran du flux
 

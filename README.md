@@ -6,9 +6,10 @@ Bienvenue sur mon portfolio de projets réalisés avec **Microsoft Power Automat
 
 ## 📂 Projets disponibles
 
-### 🔹 [Projet 1 – Demande d’acompte](projet-acompte/README.md)
-### 🔹 [Projet 2 – Validation des virements d’organismes](projet-organismeRH/README.md)
-### 🔹 [Projet 3 – Gestion des documents Qualité](projet-qualite/README.md)
+## 📁 Projets disponibles
 
+- [🔹 Projet 1 – Demande d’acompte](https://github.com/MounirBK77/Power-Automate-Portfolio/blob/main/projet-acompte/README.md)
+- [🔹 Projet 2 – Validation des virements d’organismes](https://github.com/MounirBK77/Power-Automate-Portfolio/blob/main/projet-organismeRH/README.md)
+- [🔹 Projet 3 – Gestion des documents Qualité](https://github.com/MounirBK77/Power-Automate-Portfolio/blob/main/projet-qualite/README.md)
 
 
